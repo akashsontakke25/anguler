@@ -1,0 +1,14 @@
+.container-fluid{
+    
+    background-color: #28282B;
+}
+.footer-heading{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+
+}
+.copyright{
+    color: aliceblue;
+    text-align: center;
+}

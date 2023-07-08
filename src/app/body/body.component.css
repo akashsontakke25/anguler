@@ -1,0 +1,8 @@
+.container{
+         margin-top: 50px;
+}
+.card{
+    box-shadow: 0 0px 20px rgb(169, 154, 154);
+    transition: 0.3s ease-in-out;
+
+}
